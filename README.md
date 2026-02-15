@@ -18,16 +18,22 @@ This project compresses a `.txt` file into a `.bin` file using **Huffman Encodin
 
 ## 📂 Project Structure
 
+```text
 huffman-coding/
-│── huffman.py
-│── usehuffman.py
-│── sample.txt
-│── requirements.txt
-│── .gitignore
+├── huffman.py
+├── usehuffman.py
+├── sample.txt
+├── requirements.txt
+└── .gitignore
 
-▶️ How to Run
+
+---
+
+## ▶️ How to Run
 
 Run the main test file:
+
+```bash
 python usehuffman.py
 
 🧪 Output Example
